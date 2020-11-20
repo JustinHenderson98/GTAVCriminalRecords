@@ -3,11 +3,6 @@ This script competes the Criminal Records race fully automatically. I included a
 
 
 ## Instructions
-### Requirements:
--1920 x 1080 game resolution
-
--Fullscreen mode: Windowed borderless
-
 ### How to use:
 To use the script, simply open the .exe (or .ahk). It will run in the background.
 
