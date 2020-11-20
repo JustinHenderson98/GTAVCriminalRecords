@@ -1,19 +1,19 @@
-GTA Criminal Records automation
+# GTA Criminal Records automation
 This script competes the Criminal Records race fully automatically. I included an .ahk file as well, this is so you can edit the script. To use the .ahk file you need to have AutoHotkey installed. If you don't want to edit the file and just want to use it, you can delete the .ahk and just use the .exe.
 
 
-Instructions
-Requirements:
+## Instructions
+### Requirements:
 -1920 x 1080 game resolution
 
 -Fullscreen mode: Windowed borderless
 
-How to use:
+### How to use:
 To use the script, simply open the .exe (or .ahk). It will run in the background.
 
 To stop the script, open you systemtray and rightclick the green H or Press F4.
 
-In-game:
+### In-game:
 Open the Criminal Records race.
 
 Set number of laps to 2.
@@ -29,7 +29,7 @@ Wait at least 25 seconds and press F1.
 The game will continue to run the race over again once complete.
 
 
-Hotkeys
+## Hotkeys
 F1: Starts the race loop
 
 F4: Kill the ahk program.
