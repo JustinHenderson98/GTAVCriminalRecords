@@ -35,7 +35,7 @@ F1: Starts the race loop
 F4: Kill the ahk program.
 
 
-## donate
+## Donate
 I plan to make more of these autohotkeys for future weeks if the missions can be automated easily.
 Donate if you want to see more scripts
 https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=3HN5R4QSCNDKY&currency_code=USD
