@@ -54,6 +54,7 @@ Send, {Down down}
 Sleep 30
 Send, {Down up}
 Sleep 1000
+;set laps to 2
 Send, {Left down}
 Sleep 30
 Send, {Left up}
@@ -66,14 +67,78 @@ Send, {Left down}
 Sleep 30
 Send, {Left up}
 Sleep 1000
-Send, {Up down}
+;custom vehicles
+Sleep 500
+;--Repeat 6 times
+
+Send, {Down down}
 Sleep 30
-Send, {Up up}
-Sleep 1000
-Send, {Up down}
+Send, {Down up}
+Sleep 500
+Send, {Down down}
 Sleep 30
-Send, {Up up}
-Sleep 1000
+Send, {Down up}
+Sleep 500
+Send, {Down down}
+Sleep 30
+Send, {Down up}
+Sleep 500
+Send, {Down down}
+Sleep 30
+Send, {Down up}
+Sleep 500
+Send, {Down down}
+Sleep 30
+Send, {Down up}
+Sleep 500
+Send, {Down down}
+Sleep 30
+Send, {Down up}
+Sleep 500
+Send, {Left down}
+Sleep 30
+Send, {Left up}
+;-- repeat 8 times
+; goes down to confirm settings
+Send, {Down down}
+Sleep 30
+Send, {Down up}
+Sleep 500
+Send, {Down down}
+Sleep 30
+Send, {Down up}
+Sleep 500
+Send, {Down down}
+Sleep 30
+Send, {Down up}
+Sleep 500
+Send, {Down down}
+Sleep 30
+Send, {Down up}
+Sleep 500
+Send, {Down down}
+Sleep 30
+Send, {Down up}
+Sleep 500
+Send, {Down down}
+Sleep 30
+Send, {Down up}
+Sleep 500
+Send, {Down down}
+Sleep 30
+Send, {Down up}
+Sleep 500
+Send, {Down down}
+Sleep 30
+Send, {Down up}
+Sleep 500
+Send, {Down down}
+Sleep 30
+Send, {Down up}
+Sleep 500
+
+;--- next screen
+
 Send, {Enter down}
 Sleep 30
 Send, {Enter up}
