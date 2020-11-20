@@ -41,11 +41,11 @@ Sleep 1500
 Send, {down down}
 Sleep 30
 Send, {down up}
-Sleep 500
+Sleep 1000
 Send, {Down down}
 Sleep 30
 Send, {Down up}
-Sleep 500
+Sleep 1000
 Send, {Enter down}
 Sleep 30
 Send, {Enter up}
@@ -53,27 +53,27 @@ Sleep 10000
 Send, {Down down}
 Sleep 30
 Send, {Down up}
-Sleep 500
+Sleep 1000
 Send, {Left down}
 Sleep 30
 Send, {Left up}
-Sleep 500
+Sleep 1000
 Send, {Left down}
 Sleep 30
 Send, {Left up}
-Sleep 500
+Sleep 1000
 Send, {Left down}
 Sleep 30
 Send, {Left up}
-Sleep 500
+Sleep 1000
 Send, {Up down}
 Sleep 30
 Send, {Up up}
-Sleep 500
+Sleep 1000
 Send, {Up down}
 Sleep 30
 Send, {Up up}
-Sleep 500
+Sleep 1000
 Send, {Enter down}
 Sleep 30
 Send, {Enter up}
@@ -81,11 +81,11 @@ Sleep 1000
 Send, {Left down}
 Sleep 30
 Send, {Left up}
-Sleep 500
+Sleep 1000
 Send, {Up down}
 Sleep 30
 Send, {Up up}
-Sleep 500
+Sleep 1000
 Send, {Enter down}
 Sleep 30
 Send, {Enter up}
@@ -97,11 +97,11 @@ Sleep 5000
 Send, {Up down}
 Sleep 30
 Send, {Up up}
-Sleep 500
+Sleep 1000
 Send, {Enter down}
 Sleep 30
 Send, {Enter up}
-Sleep 500
+Sleep 1000
 Send, {Enter down}
 Sleep 30
 Send, {Enter up}
@@ -109,7 +109,7 @@ Sleep 1000
 Send, {Up down}
 Sleep 30
 Send, {Up up}
-Sleep 500
+Sleep 1000
 Send, {Enter down}
 Sleep 30
 Send, {Enter up}
