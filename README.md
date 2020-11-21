@@ -5,6 +5,7 @@ This script competes the Criminal Records race fully automatically. I included a
 ## Instructions
 ### How to use:
 To use the script, simply open the .exe (or .ahk). It will run in the background.
+The gta file will wait 4 minutes each race, and the business file will wait 8 minutes each race.
 
 To stop the script, open you systemtray and rightclick the green H or Press F4.
 
